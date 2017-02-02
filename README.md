@@ -29,4 +29,4 @@ My first Twitter bot, inspired on [this post](https://medium.freecodecamp.com/ea
 If you think something is wrong, don't hesitate and **please** open an issue to solve it :)
 
 ## Contributions
-If you wish to fork this repo and do something cool, you are free to do it always that you follow the [LICENSE](https://github.com/javierojeda94/jo-bot/blob/master/LICENSE).
+If you wish to fork this repo and do something cool, you are free to do it always that you follow the [LICENSE](https://github.com/javierojeda94/jo-twitter-bot/blob/master/LICENSE).
