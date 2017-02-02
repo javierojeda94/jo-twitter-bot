@@ -1,0 +1,30 @@
+{
+  "name": "jo-bot",
+  "version": "0.0.1",
+  "description": "App used to control the @bot_javierojeda twitter user",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierojeda94/jo-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "twitter",
+    "node"
+  ],
+  "author": "Javier Ojeda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javierojeda94/jo-bot/issues"
+  },
+  "homepage": "https://github.com/javierojeda94/jo-bot#readme",
+  "dependencies": {
+    "moment": "^2.17.1",
+    "random-int": "^1.0.0",
+    "twit": "^2.2.5"
+  }
+}
