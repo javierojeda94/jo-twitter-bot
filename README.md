@@ -1,7 +1,7 @@
-# JO-BOT
+# JO-BOT
 My first Twitter bot, inspired on [this post](https://medium.freecodecamp.com/easily-set-up-your-own-twitter-bot-4aeed5e61f7f#.ydwrcyi8m).
 
-## Libs used
+## Libs used
 * For connecting to the Twitter API: [Twit](https://github.com/ttezel/twit)
 
 ## Features
@@ -11,7 +11,7 @@ My first Twitter bot, inspired on [this post](https://medium.freecodecamp.com/ea
 * **F04:** Responds to new followers
 * **F06:** Responds to the users that mention it
 
-## TODO
+## TODO
 * ~~**F01:** Search tweets based on topics that I'm interested in~~
 * ~~**F02:** RT and FV some of the tweets resulting on the previous search~~
 * **F03:** Follows other users based on certain conditions
